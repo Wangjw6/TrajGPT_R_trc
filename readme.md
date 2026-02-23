@@ -1,4 +1,4 @@
-# NCOMMS-25-27604
+# TRC-25-02834  
 
 This project implements and evaluates multiple trajectory generation models with support for original and preference-based methods. **Only for peer review and complete project will be opensource online after publication**
 
